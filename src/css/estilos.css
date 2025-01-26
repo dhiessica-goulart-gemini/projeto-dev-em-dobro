@@ -61,7 +61,7 @@ color: #f1ecff;
 .cartao .estrela{
     width: 20px;
     height: 20px;
-    background-image: url(/imagens/nivel-carta.png);
+    background-image: url(../imagens/nivel-carta.png);
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;
@@ -110,35 +110,35 @@ color: #f1ecff;
 }
 
 .fundo-1{
-    background: url(/imagens/fundo-1.jpg);
+    background: url(../imagens/fundo-1.jpg);
 }
 
 .fundo-2{
-    background: url(/imagens/fundo-2.jpg);
+    background: url(../imagens/fundo-2.jpg);
 }
 
 .fundo-3{
-    background: url(/imagens/fundo-3.jpg);
+    background: url(../imagens/fundo-3.jpg);
 }
 
 .fundo-4{
-    background: url(/imagens/fundo-4.jpg);
+    background: url(../imagens/fundo-4.jpg);
 }
 
 .fundo-5{
-    background: url(/imagens/fundo-5.jpg);
+    background: url(../imagens/fundo-5.jpg);
 }
 
 .fundo-6{
-    background: url(/imagens/fundo-6.jpg);
+    background: url(../imagens/fundo-6.jpg);
 }
 
 .fundo-7{
-    background: url(/imagens/fundo-7.jpg);
+    background: url(../imagens/fundo-7.jpg);
 }
 
 .fundo-8{
-    background: url(/imagens/fundo-3.jpg);
+    background: url(../imagens/fundo-3.jpg);
 }
 
 .btn-seta{
